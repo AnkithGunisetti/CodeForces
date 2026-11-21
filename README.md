@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 10 |
+| 7 | 10 |
 
 ---
 
@@ -17,9 +17,9 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (3)
 - [dp](#dp) (1)
-- [greedy](#greedy) (6)
+- [greedy](#greedy) (7)
 - [implementation](#implementation) (2)
-- [math](#math) (1)
+- [math](#math) (2)
 - [sortings](#sortings) (4)
 - [two pointers](#two-pointers) (1)
 
@@ -62,6 +62,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 462B | [Appleman and Card Game](https://codeforces.com/contest/462/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/AnkithGunisetti/CodeForces/blob/HEAD/462/B%20-%20Appleman%20and%20Card%20Game/solution.cpp) |
+| 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AnkithGunisetti/CodeForces/blob/HEAD/1367/B%20-%20Even%20Array/solution.cpp) |
 | 1676F | [Longest Strike](https://codeforces.com/contest/1676/problem/F) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/AnkithGunisetti/CodeForces/blob/HEAD/1676/F%20-%20Longest%20Strike/solution.cpp) |
 | 1703F | [Yet Another Problem About Pairs Satisfying an Inequality](https://codeforces.com/contest/1703/problem/F) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/AnkithGunisetti/CodeForces/blob/HEAD/1703/F%20-%20Yet%20Another%20Problem%20About%20Pairs%20Satisfying%20an%20Inequality/solution.cpp) |
 | 1790D | [Matryoshkas](https://codeforces.com/contest/1790/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/AnkithGunisetti/CodeForces/blob/HEAD/1790/D%20-%20Matryoshkas/solution.cpp) |
@@ -79,6 +80,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AnkithGunisetti/CodeForces/blob/HEAD/1367/B%20-%20Even%20Array/solution.cpp) |
 | 1929A | [Sasha and the Beautiful Array](https://codeforces.com/contest/1929/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AnkithGunisetti/CodeForces/blob/HEAD/1929/A%20-%20Sasha%20and%20the%20Beautiful%20Array/solution.cpp) |
 
 ### sortings
