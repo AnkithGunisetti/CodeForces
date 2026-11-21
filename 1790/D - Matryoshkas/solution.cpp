@@ -11,7 +11,7 @@ int main(){
         vector<int> arr(N);
         for(int i=0;i<N;i++) cin>>arr[i];
         multiset<int> s(arr.begin(),arr.end());
-        int cnt=0,idx=0;
+        int cnt=0;
         while(s.size()>0){
             int first=*s.begin();
             s.erase(s.find(first));
