@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 10 |
+| 9 | 10 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [data structures](#data-structures) (3)
 - [dp](#dp) (1)
 - [greedy](#greedy) (8)
-- [implementation](#implementation) (3)
+- [implementation](#implementation) (4)
 - [math](#math) (2)
 - [sortings](#sortings) (4)
 - [two pointers](#two-pointers) (1)
@@ -74,6 +74,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 808A | [Lucky Year](https://codeforces.com/contest/808/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/AnkithGunisetti/CodeForces/blob/HEAD/808/A%20-%20Lucky%20Year/solution.cpp) |
 | 1676F | [Longest Strike](https://codeforces.com/contest/1676/problem/F) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/AnkithGunisetti/CodeForces/blob/HEAD/1676/F%20-%20Longest%20Strike/solution.cpp) |
 | 1818A | [Politics](https://codeforces.com/contest/1818/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AnkithGunisetti/CodeForces/blob/HEAD/1818/A%20-%20Politics/solution.cpp) |
 | 1979A | [Guess the Maximum](https://codeforces.com/contest/1979/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AnkithGunisetti/CodeForces/blob/HEAD/1979/A%20-%20Guess%20the%20Maximum/solution.cpp) |
